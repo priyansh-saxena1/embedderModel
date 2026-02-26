@@ -1,4 +1,4 @@
-# 📚 Thesys Embedder Space — "The Librarian"
+#  Thesys Embedder Space — "The Librarian"
 
 > A standalone, high-performance semantic search and embedding service with code-aware chunking and caching.
 
